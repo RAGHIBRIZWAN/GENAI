@@ -1,5 +1,5 @@
 # MLP Predictions
-<img width="1003" height="228" alt="image" src="https://github.com/user-attachments/assets/3a294a44-f43f-47e1-b0b8-5581aa0f2e8a" />
+<img width="1491" height="212" alt="image" src="https://github.com/user-attachments/assets/561c3e59-451c-41c3-b005-caf7511e3e2c" />
 
 # CNN Predictions
-<img width="1003" height="235" alt="image" src="https://github.com/user-attachments/assets/6e59a6e9-0a8a-4664-bbd2-d9d6ba8d2162" />
+<img width="1480" height="232" alt="image" src="https://github.com/user-attachments/assets/638ec495-b2dc-42d7-8e73-dd79763960ed" />
